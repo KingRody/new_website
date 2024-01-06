@@ -1,0 +1,36 @@
+{
+  "name": "preventio-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fullpage/react-fullpage": "^0.1.40",
+    "@glidejs/glide": "^3.6.0",
+    "@kuma-ui/core": "^1.5.5",
+    "@storyblok/react": "^2.4.7",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/slim": "^3.0.2",
+    "leaflet": "^1.9.4",
+    "lottie-react": "^2.4.0",
+    "next": "^14.0.4",
+    "next-i18next": "^15.1.1",
+    "next-typography": "^1.0.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-intl": "^6.5.5",
+    "react-leaflet": "^4.2.1",
+    "react-lottie": "^1.2.3",
+    "storyblok-rich-text-react-renderer": "^2.9.1",
+    "typography": "^0.16.24"
+  },
+  "devDependencies": {
+    "@kuma-ui/next-plugin": "^1.1.14",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4"
+  }
+}
